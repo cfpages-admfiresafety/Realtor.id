@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/berita</loc>
+		<loc>https://realtor.id/berita</loc>
 	</url>
 	<url>
-		<loc>/properti-residensial-dan-komersial.html</loc>
+		<loc>https://realtor.id/properti-residensial-dan-komersial.html</loc>
 		<lastmod>2023-08-10T13:06:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/rumah-subsidi.html</loc>
+		<loc>https://realtor.id/rumah-subsidi.html</loc>
 		<lastmod>2023-08-10T13:06:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/menentukan-komisi-jual-beli-rumah.html</loc>
+		<loc>https://realtor.id/menentukan-komisi-jual-beli-rumah.html</loc>
 		<lastmod>2023-08-10T13:06:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/surat-perjanjian-kontrak-rumah.html</loc>
+		<loc>https://realtor.id/surat-perjanjian-kontrak-rumah.html</loc>
 		<lastmod>2023-08-10T13:06:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/pajak-langsung-dan-tidak-langsung.html</loc>
+		<loc>https://realtor.id/pajak-langsung-dan-tidak-langsung.html</loc>
 		<lastmod>2023-08-10T13:06:02+00:00</lastmod>
 	</url>
 </urlset>
